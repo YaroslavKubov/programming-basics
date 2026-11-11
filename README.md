@@ -5,3 +5,8 @@
 Група: Iпз 41
 
 Практична робота №1 — IDE, GitHub і перша програма
+
+## Практична робота №2
+
+- [Програма Python](practice-02/wavelength.py)
+- [Блок-схема](practice-02/flowchart.png)
