@@ -10,3 +10,7 @@
 
 - [Програма Python](practice-02/wavelength.py)
 - [Блок-схема](practice-02/flowchart.png)
+
+## Практична робота №3
+
+- [Практична робота №3. Типи даних та вирази](practice-03/)
